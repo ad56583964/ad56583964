@@ -6,4 +6,5 @@
 ![Emasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad56583964&show_icons=true&theme=tokyonight)
 
 [Recent Work]
-[https://www.notion.so/ad56583964/e8c24ae6c98a4b898ecbc3f7fcd50214?pvs=4](https://ad56583964.notion.site/e8c24ae6c98a4b898ecbc3f7fcd50214?pvs=4)
+
+https://ad56583964.notion.site/32d9740cfddf40039a0344f56dbfb764?v=835a3aa3a1c740fa83e2c88c6744cac5&pvs=4
